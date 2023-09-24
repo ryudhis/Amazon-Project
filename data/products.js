@@ -656,5 +656,35 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "wangzonidxxx6969wangwang",
+    image: "images/products/backpack.jpg",
+    name: "Wang's backpack",
+    rating: {
+      stars: 5,
+      count: 696969
+    },
+    priceCents: 696969,
+    keywords: [
+      "bag",
+      "apparel",
+      "mens"
+    ]
+  },
+  {
+    id: "wangbrellaamangzon69",
+    image: "images/products/umbrella.jpg",
+    name: "WangBrella",
+    rating: {
+      stars: 5,
+      count: 696969
+    },
+    priceCents: 6969,
+    keywords: [
+      "umbrella",
+      "apparel",
+      "mens"
+    ]
   }
 ];
