@@ -658,14 +658,14 @@ const products = [
     ]
   },
   {
-    id: "wangzonidxxx6969wangwang",
+    id: "wangzonid123123wangwang",
     image: "images/products/backpack.jpg",
-    name: "Wang's backpack",
+    name: "Man backpack",
     rating: {
       stars: 5,
-      count: 696969
+      count: 1234
     },
-    priceCents: 696969,
+    priceCents: 2000,
     keywords: [
       "bag",
       "apparel",
@@ -673,14 +673,14 @@ const products = [
     ]
   },
   {
-    id: "wangbrellaamangzon69",
+    id: "wangbrellaamangzon121",
     image: "images/products/umbrella.jpg",
-    name: "WangBrella",
+    name: "Umbrella",
     rating: {
       stars: 5,
-      count: 696969
+      count: 2341
     },
-    priceCents: 6969,
+    priceCents: 1000,
     keywords: [
       "umbrella",
       "apparel",
